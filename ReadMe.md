@@ -1,21 +1,21 @@
-# Gustavo Grando
+# -hi, I'm Gustavo Grando
 
-Software Engineer & Founder @nivixco. 
-Building resilient systems, business infrastructure, and applied AI/ML.
-
----
-
-### Currently
-- 🏢 Managing and engineering core infrastructure at **Nivix Company**, delivering high-performance web applications and automation pipelines.
-- ⚙️ Architecting backend services and deterministic engines (like `watchdog-sla-engine`) focusing on concurrency and data integrity.
-- 🧠 Transitioning into Machine Learning & Deep Learning systems (Pós em andamento).
+software engineer, scaling @nivix.co;
+building resilient systems, business infrastructure, and applied AI/ML;
 
 ---
 
-### Core Stack & Engineering
+### currently
+- 🏢 managing and engineering core infrastructure at **nivix.co**, delivering high-performance web applications and automation pipelines;
+- ⚙️ architecting backend services and deterministic engines (like `watchdog-sla-engine`) focusing on concurrency and data integrity;
+- 🧠 transitioning into machine learning & deep learning systems (Pós em andamento);
+
+---
+
+### core stack & engineering
 
 ```plaintext
-Languages:     TypeScript, SQL, Python
-Backend & DB:  Node.js, PostgreSQL, Redis, State Machines, Distributed Queues
-Frontend:      React, Next.js, TailwindCSS, State Management
-Systems/Ops:   Linux, Docker, Git, CI/CD
+languages:     TypeScript, SQL, Rust;
+backend & db:  Node.js, Nest, MongoDB, PostgreSQL, Redis, State Machines, Distributed Queues;
+frontend:      React, Next.js, TailwindCSS, State Management;
+systems/ops:   Linux, Docker, Git, CI/CD.
