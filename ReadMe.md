@@ -1,4 +1,4 @@
-# -hi, I'm Gustavo Grando
+## hi, I'm Gustavo Grando
 
 software engineer, scaling @nivix.co;
 building resilient systems, business infrastructure, and applied AI/ML;
